@@ -1,15 +1,19 @@
 ## Olá, Bem vindo. Me chamo Douglas Cruz! 👋
 ### Estudante de Engenharia de Software & Desenvolvedor RPA
 
-Atualmente focado em automação de processos, desenvolvimento de sistemas e engenharia de software. 
+Seja bem-vindo ao meu espaço! Sou aquele tipo de desenvolvedor que adora pegar um processo manual, chato e repetitivo e transformar em uma automação. 
+Transito entre a lógica estruturada do **Backend** e a mágica do **RPA**, sempre buscando criar sistemas que resolvam problemas reais e facilitem o dia a dia. 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Douglas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Douglas-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Douglas-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Douglas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Douglas-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Douglas-JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Douglas-TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Douglas-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Douglas-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Douglas-Angular" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Douglas-C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Douglas-SQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-
 ##
 
 <div> 
@@ -19,11 +23,3 @@ Atualmente focado em automação de processos, desenvolvimento de sistemas e eng
   <a href="https://github.com/DouglasCruzz10" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> 
 </div>
 
-## Stats
-
-<div>
-  <a href="https://github.com/DouglasCruzz10">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasCruzz10&theme=dracula"/> 
-    <img height="180em" src="https://github-readme-stats-alpha-ten.vercel.app/api/top-langs/?username=DouglasCruzz10&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
